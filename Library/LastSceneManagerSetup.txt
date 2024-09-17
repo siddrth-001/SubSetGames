@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/VoiceGame/voiceDetect.unity
+- path: Assets/Chess/GameScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

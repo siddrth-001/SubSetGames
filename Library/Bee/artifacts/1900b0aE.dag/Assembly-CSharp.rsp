@@ -360,6 +360,8 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.33f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/Chess/ChessTemplate/Assets/Chess/Scripts/Core/ChessBoardPlacementHandler.cs"
 "Assets/Chess/ChessTemplate/Assets/Chess/Scripts/Core/ChessPlayerPlacementHandler.cs"
+"Assets/Chess/mainChess/Scripts/ChessMan.cs"
+"Assets/Chess/mainChess/Scripts/GameSetup.cs"
 "Assets/VoiceGame/Scripts/AudioDetect.cs"
 -langversion:9.0
 /deterministic

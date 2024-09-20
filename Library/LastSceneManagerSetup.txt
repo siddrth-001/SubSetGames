@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Chess/GameScene.unity
+- path: Assets/Chess/mainChess/mainChess.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
